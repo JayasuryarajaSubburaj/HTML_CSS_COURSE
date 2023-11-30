@@ -1,0 +1,29 @@
+.course{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.Beginner{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(130, 127, 127);
+    margin-top: 5px;
+}
+
+.skill{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    margin-top: 8px;
+}
+
+.start{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+}

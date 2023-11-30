@@ -1,0 +1,83 @@
+.flex_box{
+    height:110px;
+    width:290px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+
+.header_flexbox{
+    height:25px;
+    width:290px;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    padding-top:9px;
+    padding-left:10px;
+}
+
+.user_flexbox{
+    height:74px;
+    width:300px;
+    display:flex;
+}
+
+.img-flexbox{
+    height:74px;
+    width: 60px;
+}
+
+img{
+    height:40px;
+    padding-top:14px;
+    padding-left:12px;
+}
+
+.content_flexbox{
+    height:70px;
+    width: 240px;
+    display:flex;
+    flex-direction: column;
+}
+
+.subject_flexbox{
+    height:23px;
+    width:240px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.one{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.two{
+    font-size:10px;
+    color: grey;
+    padding-right:20px;
+}
+
+.offer_flexbox{
+    height:20px;
+    width:240px;
+    display:flex;
+    align-items: center;
+    margin-top:-5px;
+}
+
+.three{
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.four{
+    font-size:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+
+

@@ -1,0 +1,23 @@
+.Total_flexbox{
+    width:300px;
+    height:50px;
+    display:flex;
+}
+
+.First_flexbox{
+    width:100px;
+    background-color:lightpink;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+p{
+    background-color:black;
+    color: white;
+}
+
+.Second_nonflexbox{
+    width:200px;
+    background-color:lightblue;
+}
